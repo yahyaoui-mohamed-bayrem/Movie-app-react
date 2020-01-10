@@ -1,0 +1,14 @@
+.movie-app{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    min-height: 900px;
+    background-color: rgb(90, 161, 158);
+}
+.movie-container{
+    width: 1000px;
+    display: flex;
+    margin-top: 100px;
+    flex-wrap: wrap;
+}

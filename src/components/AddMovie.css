@@ -1,0 +1,20 @@
+.add-container{
+    width: 266px;
+    height: 266px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 30px;
+    border-radius: 5px;
+    box-shadow: 4px 2px 21px 0px rgba(0,0,0,0.75);
+    color: rgb(6, 77, 105);
+    overflow: hidden;
+    align-self: flex-end;
+    cursor: pointer;
+}
+.add-icon{
+    width: 100%;
+}
+.add-container:hover{
+    opacity: 0.5;
+}

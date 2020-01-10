@@ -1,0 +1,25 @@
+.header{
+    display: flex;
+    justify-content: center;
+    position: fixed;
+}
+.search-input{
+    height: 40px;
+    width: 350px;
+    background-color: transparent;
+    border: solid white;
+    border-radius: 10px;
+}
+.search-btn{
+    height: 48px;
+    width: 100px;
+    text-align: center;
+    background-color: transparent;
+    border: solid white;
+    border-radius: 10px;
+    color: rgb(6, 77, 105);
+    font-weight: 700;
+    font-size: medium;
+}
+
+ 
